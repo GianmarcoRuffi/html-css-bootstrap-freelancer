@@ -132,3 +132,7 @@ h3 {
   color: black;
   border-color: #1abc9c;
 }
+
+.form-wrapper {
+  width: 75%;
+}
