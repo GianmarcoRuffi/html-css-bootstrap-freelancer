@@ -29,6 +29,10 @@ header ul li a {
   margin-right: 8px;
 }
 
+header ul li a:hover {
+  color: #1abc9c;
+}
+
 header h2 {
   font-weight: bold;
 }
