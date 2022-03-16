@@ -23,7 +23,6 @@ header ul li a {
   color: white;
   display: inline-block;
   font-size: 25px;
-  padding: 8px;
 }
 
 header {
@@ -136,3 +135,5 @@ h3 {
 .form-wrapper {
   width: 75%;
 }
+
+/* Footer */
